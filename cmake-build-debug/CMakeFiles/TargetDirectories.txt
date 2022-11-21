@@ -1,0 +1,14 @@
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_editora2.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_jogoGalo.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_editora.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_funcoes.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_exercici021.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_exercicio16.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_exercicio26.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_exercicio25.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_avaliaca2.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_avaliaca5.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/Cinel_AvalGalo.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
