@@ -58,6 +58,30 @@ build CMakeFiles/Cinel.dir/editora2.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vito
   OBJECT_DIR = CMakeFiles/Cinel.dir
   OBJECT_FILE_DIR = CMakeFiles/Cinel.dir
 
+build CMakeFiles/Cinel.dir/banco.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vitorfrango/CLionProjects/Cinel/banco.cpp || cmake_object_order_depends_target_Cinel
+  DEP_FILE = CMakeFiles/Cinel.dir/banco.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Cinel.dir
+  OBJECT_FILE_DIR = CMakeFiles/Cinel.dir
+
+build CMakeFiles/Cinel.dir/heranca.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vitorfrango/CLionProjects/Cinel/heranca.cpp || cmake_object_order_depends_target_Cinel
+  DEP_FILE = CMakeFiles/Cinel.dir/heranca.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Cinel.dir
+  OBJECT_FILE_DIR = CMakeFiles/Cinel.dir
+
+build CMakeFiles/Cinel.dir/ponteiros.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vitorfrango/CLionProjects/Cinel/ponteiros.cpp || cmake_object_order_depends_target_Cinel
+  DEP_FILE = CMakeFiles/Cinel.dir/ponteiros.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Cinel.dir
+  OBJECT_FILE_DIR = CMakeFiles/Cinel.dir
+
+build CMakeFiles/Cinel.dir/ponteirosClasses.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vitorfrango/CLionProjects/Cinel/ponteirosClasses.cpp || cmake_object_order_depends_target_Cinel
+  DEP_FILE = CMakeFiles/Cinel.dir/ponteirosClasses.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Cinel.dir
+  OBJECT_FILE_DIR = CMakeFiles/Cinel.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Cinel
@@ -66,7 +90,7 @@ build CMakeFiles/Cinel.dir/editora2.cpp.o: CXX_COMPILER__Cinel_Debug /Users/vito
 #############################################
 # Link the executable Cinel
 
-build Cinel: CXX_EXECUTABLE_LINKER__Cinel_Debug CMakeFiles/Cinel.dir/main.cpp.o CMakeFiles/Cinel.dir/editora2.cpp.o
+build Cinel: CXX_EXECUTABLE_LINKER__Cinel_Debug CMakeFiles/Cinel.dir/main.cpp.o CMakeFiles/Cinel.dir/editora2.cpp.o CMakeFiles/Cinel.dir/banco.cpp.o CMakeFiles/Cinel.dir/heranca.cpp.o CMakeFiles/Cinel.dir/ponteiros.cpp.o CMakeFiles/Cinel.dir/ponteirosClasses.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk
   OBJECT_DIR = CMakeFiles/Cinel.dir
   POST_BUILD = :
@@ -323,6 +347,37 @@ build Cinel_exercicio25: CXX_EXECUTABLE_LINKER__Cinel_exercicio25_Debug CMakeFil
   TARGET_PDB = Cinel_exercicio25.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Cinel_banco
+
+
+#############################################
+# Order-only phony target for Cinel_banco
+
+build cmake_object_order_depends_target_Cinel_banco: phony || CMakeFiles/Cinel_banco.dir
+
+build CMakeFiles/Cinel_banco.dir/banco.cpp.o: CXX_COMPILER__Cinel_banco_Debug /Users/vitorfrango/CLionProjects/Cinel/banco.cpp || cmake_object_order_depends_target_Cinel_banco
+  DEP_FILE = CMakeFiles/Cinel_banco.dir/banco.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -std=gnu++14
+  OBJECT_DIR = CMakeFiles/Cinel_banco.dir
+  OBJECT_FILE_DIR = CMakeFiles/Cinel_banco.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Cinel_banco
+
+
+#############################################
+# Link the executable Cinel_banco
+
+build Cinel_banco: CXX_EXECUTABLE_LINKER__Cinel_banco_Debug CMakeFiles/Cinel_banco.dir/banco.cpp.o
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk
+  OBJECT_DIR = CMakeFiles/Cinel_banco.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Cinel_banco
+  TARGET_PDB = Cinel_banco.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Cinel_avaliaca2
 
 
@@ -449,7 +504,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug
 
-build all: phony Cinel Cinel_editora2 Cinel_jogoGalo Cinel_editora Cinel_funcoes Cinel_exercici021 Cinel_exercicio16 Cinel_exercicio26 Cinel_exercicio25 Cinel_avaliaca2 Cinel_avaliaca5 Cinel_AvalGalo
+build all: phony Cinel Cinel_editora2 Cinel_jogoGalo Cinel_editora Cinel_funcoes Cinel_exercici021 Cinel_exercicio16 Cinel_exercicio26 Cinel_exercicio25 Cinel_banco Cinel_avaliaca2 Cinel_avaliaca5 Cinel_AvalGalo
 
 # =============================================================================
 # Built-in targets
