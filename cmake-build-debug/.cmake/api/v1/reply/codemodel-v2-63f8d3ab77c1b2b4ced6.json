@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cinel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel-Debug-04955b54596f801048b5.json",
+					"name" : "Cinel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_AvalGalo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_AvalGalo-Debug-28aa665950bf3e2ba69d.json",
+					"name" : "Cinel_AvalGalo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_avaliaca2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_avaliaca2-Debug-b00c78f63e2fdab77393.json",
+					"name" : "Cinel_avaliaca2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_avaliaca5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_avaliaca5-Debug-7d8dd58a567c686e63e7.json",
+					"name" : "Cinel_avaliaca5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_avaliaca7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_avaliaca7-Debug-d403db9a3e637cd4146a.json",
+					"name" : "Cinel_avaliaca7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_banco::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_banco-Debug-a9a66f93cd2cc8dfad5e.json",
+					"name" : "Cinel_banco",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_editora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_editora-Debug-44d86ba6004b029fa93d.json",
+					"name" : "Cinel_editora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_editora2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_editora2-Debug-3878a1b6d067a1320597.json",
+					"name" : "Cinel_editora2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_exercici021::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_exercici021-Debug-f1583234836e7b44ee30.json",
+					"name" : "Cinel_exercici021",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_exercicio16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_exercicio16-Debug-764adc59868e50fbe462.json",
+					"name" : "Cinel_exercicio16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_exercicio25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_exercicio25-Debug-160104965c79f2e0da7f.json",
+					"name" : "Cinel_exercicio25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_exercicio26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_exercicio26-Debug-8e820cb36e20e0ed7e8c.json",
+					"name" : "Cinel_exercicio26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_funcoes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_funcoes-Debug-0df5db7fcd84b93da6d1.json",
+					"name" : "Cinel_funcoes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cinel_jogoGalo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cinel_jogoGalo-Debug-7c20408d2dfefef7694c.json",
+					"name" : "Cinel_jogoGalo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vitorfrango/CLionProjects/Cinel/cmake-build-debug",
+		"source" : "/Users/vitorfrango/CLionProjects/Cinel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
