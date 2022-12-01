@@ -18,4 +18,5 @@ add_executable(Cinel_banco banco.cpp)
 
 add_executable(Cinel_avaliaca2 avaliacoes/avaliacao2.cpp)
 add_executable(Cinel_avaliaca5 avaliacoes/avaliacao5.cpp)
-add_executable(Cinel_AvalGalo avaliacoes/AvalGalo.cpp)
+add_executable(Cinel_avaliaca7 avaliacoes/avaliacao7.cpp)
+add_executable(Cinel_AvalGalo avaliacoes/AvalGalo.cpp avaliacoes/Avaliacao7.cpp)
